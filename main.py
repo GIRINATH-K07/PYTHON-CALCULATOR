@@ -12,7 +12,7 @@ def divide(x, y):
         return "Error: Cannot divide by zero"
     return x / y
 
-print("Simple Calculator")
+print("GIRI'S CALCULATOR")
 print("1. Add  |  2. Subtract  |  3. Multiply  |  4. Divide")
 
 while True:
